@@ -1,0 +1,2 @@
+#!/bin/bash
+GIT_LFS_SKIP_SMUDGE=1 git pull && git lfs pull
