@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Recap Control Systems I}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{System Modeling}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Linear System Analysis}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Stability \(Lyapunov\)}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Controllability}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Observability}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Feedback System Analysis}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{Nyquist theorem}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.5}{Specifications for the closed-loop}{section.1}% 9
+\BOOKMARK [1][-]{section.2}{Loop Shaping}{}% 10
+\BOOKMARK [2][-]{subsection.2.1}{Plant inversion}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.2}{Loop shaping for Nonminimumphase systems}{section.2}% 12
